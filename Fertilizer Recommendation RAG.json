@@ -1,0 +1,433 @@
+[
+  {
+    "crop":"sorghum",
+    "disease":"anthracnose and red dot",
+    "symptoms":"Necrotic leaf/stem lesions, concentric rings, panicle spotting under humid weather.",
+    "cause":"Colletotrichum spp. and related fungi; residue-borne and favored by humidity.",
+    "recommended_fertilizers":[{"name":"Balanced NPK (avoid excess N)","npk_ratio":"Soil-test based","dosage":"Follow local RDF","application_method":"Split basal + top dress"}],
+    "chemical_treatment":[{"chemical_name":"Mancozeb (protectant)","dosage":"~2 g/L or ~500 g/ha","spray_interval":"10–14 days","notes":"Rotate with systemic fungicide"},{"chemical_name":"Azoxystrobin/tebuconazole (systemic)","dosage":"Label rate","spray_interval":"14–21 days","notes":"Alternate MoA"}],
+    "organic_treatment":[{"solution":"Trichoderma seed/soil application","preparation":"Product label","application":"Seed treatment + soil drench"},{"solution":"Neem oil foliar spray","preparation":"5–10 ml/L","application":"Supportive control"}],
+    "preventive_measures":"Resistant varieties, residue management, crop rotation, timely sowing.",
+    "references_used":"ICAR/TNAU/FAO guidance"
+  },
+
+  {
+    "crop":"sorghum",
+    "disease":"covered kernel smut",
+    "symptoms":"Smut galls replacing kernels; black powdery spores.",
+    "cause":"Smut fungi (seed-borne/flower infection).",
+    "recommended_fertilizers":[{"name":"Balanced NPK (moderate N)","npk_ratio":"Soil-test based","dosage":"Follow local RDF","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Seed treatment with systemic fungicide (e.g., carbendazim where registered)","dosage":"Seed-treatment label rate (~2 g/kg typical)","spray_interval":"One-time at seed treatment","notes":"Seed treatment is primary control"}],
+    "organic_treatment":[{"solution":"Hot-water seed treatment / Trichoderma seed coating","preparation":"Follow extension protocol","application":"Prior to sowing"}],
+    "preventive_measures":"Use certified seed, seed treatment, crop rotation, sanitation.",
+    "references_used":"ICAR/TNAU seed-borne disease notes"
+  },
+
+  {
+    "crop":"sorghum",
+    "disease":"cereal grain molds",
+    "symptoms":"Grain discoloration, shriveling, reduced germination; storage mycotoxins risk.",
+    "cause":"Aspergillus/Fusarium/Penicillium complex; moist conditions pre- or post-harvest.",
+    "recommended_fertilizers":[{"name":"Balanced NPK to maintain vigor","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Not usually chemical in-field; focus on cultural & storage chemicals","dosage":"N/A","spray_interval":"N/A","notes":"Field fungicides limited effect on storage molds"}],
+    "organic_treatment":[{"solution":"Rapid drying to ≤12% moisture; clean storage (hermetic if possible)","preparation":"Dry and clean stores","application":"Post-harvest handling"}],
+    "preventive_measures":"Timely harvest, rapid drying, clean storage, control insect/wound damage.",
+    "references_used":"TNAU/ICAR post-harvest guidance"
+  },
+
+  {
+    "crop":"sorghum",
+    "disease":"loose smut",
+    "symptoms":"Spikelets replaced by black spore masses at heading.",
+    "cause":"Ustilago spp.; seed- or soil-borne infection at flowering.",
+    "recommended_fertilizers":[{"name":"Balanced NPK","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Seed treatment (systemic fungicide e.g., carboxin/carbendazim where registered)","dosage":"Per label","spray_interval":"One-time at seed treatment","notes":"Most effective control"}],
+    "organic_treatment":[{"solution":"Use certified disease-free seed; hot-water seed protocols","preparation":"Extension protocols","application":"Pre-sowing"}],
+    "preventive_measures":"Certified seed, seed treatment, crop rotation.",
+    "references_used":"ICAR/TNAU seed disease notes"
+  },
+
+  {
+    "crop":"sorghum",
+    "disease":"head smut",
+    "symptoms":"Heads replaced by sori; malformed panicles.",
+    "cause":"Smut fungi (Sporisorium spp.), seed/soil-borne.",
+    "recommended_fertilizers":[{"name":"Balanced NPK","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Seed treatment (systemic fungicides)","dosage":"Per label","spray_interval":"Seed treatment at sowing","notes":"Key control"}],
+    "organic_treatment":[{"solution":"Clean seed, remove infected debris","preparation":"N/A","application":"Seed selection and sanitation"}],
+    "preventive_measures":"Certified seed, seed treatment, sanitation.",
+    "references_used":"ICAR/TNAU"
+  },
+
+  {
+    "crop":"sorghum",
+    "disease":"rust",
+    "symptoms":"Reddish-brown pustules on leaves; chlorosis and defoliation when severe.",
+    "cause":"Puccinia spp.; humid conditions favor disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK, manage N (avoid excess)","npk_ratio":"Soil-test based","dosage":"Per recommendation","application_method":"Split application"}],
+    "chemical_treatment":[{"chemical_name":"Triazole (e.g., tebuconazole) or QoI (azoxystrobin)","dosage":"Label rates (~0.1% foliar typical for triazoles)","spray_interval":"10–14 days","notes":"Alternate MoA; follow advisory"}],
+    "organic_treatment":[{"solution":"Bacillus subtilis or neem-based sprays; Trichoderma soil support","preparation":"Product label","application":"Preventive/curative support"}],
+    "preventive_measures":"Resistant varieties, spacing, volunteer host removal, monitoring.",
+    "references_used":"ICAR/TNAU/CIMMYT guidance"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"insect pest disease",
+    "symptoms":"Chewed leaves, holes, frass, sticky honeydew, larval presence or sucking injury.",
+    "cause":"Fruit borer, Helicoverpa, aphids, thrips, whiteflies etc.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + micronutrients (Zn,B)","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split/foliar micronutrients if needed"}],
+    "chemical_treatment":[{"chemical_name":"Spinosad, Emamectin, or selective insecticides (IPM use)","dosage":"Per label","spray_interval":"7–14 days or threshold-based","notes":"Prefer selective options; rotate"}],
+    "organic_treatment":[{"solution":"Bt for caterpillars; neem oil for sucking pests; pheromone/biocontrols","preparation":"Per product label","application":"Apply at thresholds"}],
+    "preventive_measures":"Scouting, pheromone traps, conserve natural enemies, timely interventions.",
+    "references_used":"TNAU/IPM resources"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"small leaf disease",
+    "symptoms":"Reduced leaf size, chlorosis or cupping; may indicate nutrient deficiency or viral/herbicide injury.",
+    "cause":"Micronutrient deficiency (Zn, N), viral infections or chemical injury.",
+    "recommended_fertilizers":[{"name":"Corrective NPK + Zn foliar where deficient","npk_ratio":"Per soil test","dosage":"Foliar Zn 0.5–1 g/L if deficient","application_method":"Basal + foliar corrections"}],
+    "chemical_treatment":[{"chemical_name":"Not applicable for viral/nutrient causes; manage vectors if viral","dosage":"N/A","spray_interval":"N/A","notes":"Confirm cause before chemical use"}],
+    "organic_treatment":[{"solution":"Seaweed extracts, compost, foliar organic micronutrients","preparation":"Per product label","application":"As corrective/supportive"}],
+    "preventive_measures":"Soil test, balanced fertilization, virus-free seedlings, vector control.",
+    "references_used":"ICAR/TNAU nutrient & virus guidance"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"wilt disease",
+    "symptoms":"Sudden wilting, vascular browning, stunting, plant death.",
+    "cause":"Fusarium oxysporum / Verticillium (soil-borne pathogens).",
+    "recommended_fertilizers":[{"name":"Balanced NPK + organic matter (FYM/compost)","npk_ratio":"Per soil test","dosage":"Apply FYM/compost as soil health measure","application_method":"Basal organic amendment"}],
+    "chemical_treatment":[{"chemical_name":"Limited efficacy of soil fungicides; focus onSeedling dips where applicable","dosage":"Per label","spray_interval":"N/A","notes":"Chemical control limited"}],
+    "organic_treatment":[{"solution":"Trichoderma soil application, biofumigation, solarization in nursery beds","preparation":"Per label/protocol","application":"At soil prep & transplanting"}],
+    "preventive_measures":"Disease-free transplants, rotation, solarization, increase organic matter.",
+    "references_used":"ICAR/TNAU wilt management"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"leaf spot disease",
+    "symptoms":"Necrotic spots on leaves; concentric rings in some cases; sporulation under humidity.",
+    "cause":"Alternaria/Septoria-like fungi favored by leaf wetness.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + K for stress tolerance","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Mancozeb (protectant) or carbendazim (systemic)","dosage":"Mancozeb ~2 g/L or label ha rate","spray_interval":"10–14 days","notes":"Rotate protectant & systemic"}],
+    "organic_treatment":[{"solution":"Copper sprays (where allowed), Bacillus subtilis products","preparation":"Per label","application":"Preventive/early control"}],
+    "preventive_measures":"Good spacing, remove infected leaves, avoid overhead irrigation, sanitation.",
+    "references_used":"TNAU/ICAR foliar disease guidance"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"white mold disease",
+    "symptoms":"Water-soaked lesions with white fluffy mycelium; stem rot and collapse.",
+    "cause":"Sclerotinia spp. or similar necrotrophs under cool, moist conditions.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess irrigation","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard with drainage focus"}],
+    "chemical_treatment":[{"chemical_name":"Procymidone, boscalid, or protectants where registered","dosage":"Label rates","spray_interval":"7–14 days in conducive periods","notes":"Check registration"}],
+    "organic_treatment":[{"solution":"Coniothyrium minitans & Trichoderma biocontrols; remove infected debris","preparation":"Per product label","application":"Soil amendment and sanitation"}],
+    "preventive_measures":"Avoid overhead irrigation, improve drainage, remove sclerotia-bearing debris, rotation.",
+    "references_used":"Extension Sclerotinia control literature"
+  },
+
+  {
+    "crop":"eggplant",
+    "disease":"mosaic virus disease",
+    "symptoms":"Mottling/mosaic patterns, leaf deformation, stunting, reduced vigor.",
+    "cause":"Plant viruses (CMV/TMV etc.) transmitted mechanically & by aphids.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + foliar micronutrients to support vigor","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split application"}],
+    "chemical_treatment":[{"chemical_name":"No antiviral chemical; control vectors (aphids) if threshold reached","dosage":"Use insecticides as per label","spray_interval":"As per IPM thresholds","notes":"Manage vectors to reduce spread"}],
+    "organic_treatment":[{"solution":"Roguing infected plants, reflective mulches to deter aphids, neem to reduce vectors","preparation":"Per product label","application":"Nursery and field applications"}],
+    "preventive_measures":"Use virus-free seedlings, sanitize tools, control vectors, rogue infections.",
+    "references_used":"ICAR/TNAU IPM and virus guidance"
+  },
+
+  {
+    "crop":"sugarcane",
+    "disease":"redrot",
+    "symptoms":"Reddening and decay of internal stalk tissue; white powdery spores on rind; cane collapse.",
+    "cause":"Colletotrichum falcatum (red rot) favored by warm humid conditions.",
+    "recommended_fertilizers":[{"name":"Balanced NPK with higher K for stalk health","npk_ratio":"Follow sugarcane recommendations","dosage":"Soil-test based","application_method":"Split application"}],
+    "chemical_treatment":[{"chemical_name":"Seed-piece treatment (bio/systemic) where recommended","dosage":"Per local advisory","spray_interval":"N/A","notes":"Chemical foliar control limited after infection"}],
+    "organic_treatment":[{"solution":"Trichoderma seed-piece treatment, sanitation, remove infected stools","preparation":"Per product label","application":"Pre-planting and sanitation"}],
+    "preventive_measures":"Resistant varieties, healthy setts, sanitation, rotation, balanced fertilization (K).",
+    "references_used":"ICAR/TNAU sugarcane guidance"
+  },
+
+  {
+    "crop":"sugarcane",
+    "disease":"mosaic",
+    "symptoms":"Mottled leaf patterns (light/dark green patches), reduced vigor.",
+    "cause":"Viral infection transmitted by aphids/planting material.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + micronutrients","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"No antiviral chemical; vector control if needed","dosage":"Per label for insecticides","spray_interval":"Per vector pressure","notes":"Vector management reduces spread"}],
+    "organic_treatment":[{"solution":"Roguing, use virus-free setts, encourage natural enemies of aphids","preparation":"N/A","application":"Sanitation & biological control"}],
+    "preventive_measures":"Use virus-free setts, aphid management, sanitation.",
+    "references_used":"Extension viral disease guides"
+  },
+
+  {
+    "crop":"sugarcane",
+    "disease":"yellow",
+    "symptoms":"Leaf yellowing; cause may be nutrient deficiency or viral infection (diagnosis required).",
+    "cause":"Often N/K/Mg deficiency or virus; confirm with tests.",
+    "recommended_fertilizers":[{"name":"Soil-test based NPK correction; foliar micronutrients if deficient","npk_ratio":"Per soil test","dosage":"Follow local recommendations","application_method":"Basal + foliar as required"}],
+    "chemical_treatment":[{"chemical_name":"Depends on cause; if viral, manage vectors","dosage":"Per label","spray_interval":"N/A","notes":"Confirm cause before chemical use"}],
+    "organic_treatment":[{"solution":"Compost/FYM, foliar organic micronutrient sprays","preparation":"Per product label","application":"As corrective"}],
+    "preventive_measures":"Soil testing, balanced fertilization, healthy planting material.",
+    "references_used":"Soil health & ICAR guidance"
+  },
+
+  {
+    "crop":"sugarcane",
+    "disease":"rust",
+    "symptoms":"Reddish-brown pustules on leaves; leaf area loss.",
+    "cause":"Puccinia rust fungi in humid conditions.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split"}],
+    "chemical_treatment":[{"chemical_name":"Mancozeb and/or triazole mixes (protectant+systemic)","dosage":"Mancozeb ~2 g/L or label ha rates; triazole per label","spray_interval":"10–14 days","notes":"Rotate chemistries"}],
+    "organic_treatment":[{"solution":"Biocontrols & canopy management; Trichoderma support","preparation":"Per label","application":"Preventive"}],
+    "preventive_measures":"Resistant varieties, spacing, sanitation, monitoring.",
+    "references_used":"ICAR/TNAU rust advisories"
+  },
+
+  {
+    "crop":"corn",
+    "disease":"northern leaf blight",
+    "symptoms":"Long cigar-shaped tan lesions on leaves; coalescence reduces photosynthetic area.",
+    "cause":"Exserohilum turcicum; cool, moist weather favors disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; manage N to avoid dense canopy","npk_ratio":"Per maize recommendations","dosage":"Soil-test based","application_method":"Split N"}],
+    "chemical_treatment":[{"chemical_name":"Azoxystrobin or tebuconazole (strobilurin/triazole)","dosage":"Label rates","spray_interval":"As disease onset/critical stages","notes":"Rotate groups"}],
+    "organic_treatment":[{"solution":"Residue management, rotation, Trichoderma soil aids","preparation":"N/A","application":"Cultural control"}],
+    "preventive_measures":"Resistant hybrids, rotation, timely fungicide at critical stages.",
+    "references_used":"Extension maize guides"
+  },
+
+  {
+    "crop":"corn",
+    "disease":"common rust",
+    "symptoms":"Cinnamon-red pustules on leaf surfaces; yield loss if severe.",
+    "cause":"Puccinia sorghi; thrives under warm/humid conditions.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess N during disease windows","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split"}],
+    "chemical_treatment":[{"chemical_name":"Azoxystrobin/tebuconazole or similar systemic fungicides","dosage":"Label rates","spray_interval":"Apply at threshold/early disease","notes":"Use resistant hybrids when possible"}],
+    "organic_treatment":[{"solution":"Field sanitation and residue reduction","preparation":"N/A","application":"Cultural"}],
+    "preventive_measures":"Use tolerant hybrids, monitor and spray at threshold.",
+    "references_used":"TNAU/ICAR maize disease notes"
+  },
+
+  {
+    "crop":"corn",
+    "disease":"cercospora leaf spot (gray leaf spot)",
+    "symptoms":"Rectangular gray/tan lesions between veins; severe infections reduce yield.",
+    "cause":"Cercospora spp.; residue-borne and favored by warm humid weather.",
+    "recommended_fertilizers":[{"name":"Balanced NPK with adequate K","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split"}],
+    "chemical_treatment":[{"chemical_name":"Strobilurin (azoxystrobin) or triazole (tebuconazole)","dosage":"Label rates","spray_interval":"As disease threat appears","notes":"Rotate MoA"}],
+    "organic_treatment":[{"solution":"Residue management, rotation, Trichoderma soil treatments","preparation":"N/A","application":"Cultural"}],
+    "preventive_measures":"Use resistant/tolerant hybrids, rotate crops, remove residues.",
+    "references_used":"Maize disease management literature"
+  },
+
+  {
+    "crop":"rice",
+    "disease":"leaf blast",
+    "symptoms":"Diamond-shaped lesions with gray centers and brown margins; reduces tillering & yield.",
+    "cause":"Magnaporthe oryzae; dew/frequent leaf wetness favors disease.",
+    "recommended_fertilizers":[{"name":"Careful N management (split application), balanced P & K","npk_ratio":"Site-specific per soil test","dosage":"Avoid excessive late N","application_method":"Split N application"}],
+    "chemical_treatment":[{"chemical_name":"Tricyclazole (where registered) or triazole/strobilurin mixes","dosage":"Tricyclazole foliar ~0.6 g/L in trials; follow label","spray_interval":"At susceptible stages/first symptoms","notes":"Follow local registration; evidence strong for tricyclazole efficacy"}],
+    "organic_treatment":[{"solution":"Resistant varieties, Trichoderma seedling dips, botanicals (neem) as support","preparation":"Per product label","application":"Seedling & foliar support"}],
+    "preventive_measures":"Use resistant varieties, balanced N, drainage & timely sprays.",
+    "references_used":"IRRI/ICAR/trial reports"
+  },
+
+  {
+    "crop":"rice",
+    "disease":"neck blast",
+    "symptoms":"Lesions on panicle neck, chaffy/pale grains and sterility, major yield loss.",
+    "cause":"Magnaporthe oryzae infection at booting/heading under conducive weather.",
+    "recommended_fertilizers":[{"name":"Avoid heavy late N; balanced nutrition","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Avoid late high N"}],
+    "chemical_treatment":[{"chemical_name":"Protectant/systemic fungicides at booting (triazole+strobilurin mixes)","dosage":"Label rates; timely spray at heading critical","spray_interval":"Single/two sprays timed to booting/heading","notes":"Timely application critical to protect panicles"}],
+    "organic_treatment":[{"solution":"Resistant varieties, Trichoderma, botanicals as supportive measures","preparation":"Per label","application":"Nursery & foliar supportive"}],
+    "preventive_measures":"Resistant varieties, avoid late heavy N, timely fungicide application.",
+    "references_used":"IRRI/ICAR studies"
+  },
+
+  {
+    "crop":"rice",
+    "disease":"brown spot",
+    "symptoms":"Small brown spots on leaves, sheaths and grains; lower tillering & grain quality.",
+    "cause":"Bipolaris/Bipolaris oryzae; aggravated by low fertility (K) and poor seed quality.",
+    "recommended_fertilizers":[{"name":"Correct K and micronutrient deficiencies (K, Zn)","npk_ratio":"Per soil test","dosage":"Apply corrective K; foliar Zn 0.5–1 g/L when deficient","application_method":"Basal + foliar as needed"}],
+    "chemical_treatment":[{"chemical_name":"Carbendazim or mancozeb (where recommended)","dosage":"Label rates","spray_interval":"At disease onset","notes":"Combine with cultural measures"}],
+    "organic_treatment":[{"solution":"Trichoderma seed treatment, improve seed quality and nursery hygiene","preparation":"Per label","application":"Seed treatment & nursery hygiene"}],
+    "preventive_measures":"Improve K status, seed quality, rotation and sanitation.",
+    "references_used":"ICAR/TNAU nutrient-disease guidance"
+  },
+
+  {
+    "crop":"wheat",
+    "disease":"yellow rust",
+    "symptoms":"Yellow-orange pustules in stripes along veins; reduced grain filling.",
+    "cause":"Puccinia striiformis; cool, moist conditions.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excessive late N","npk_ratio":"Per wheat recommendations","dosage":"Soil-test based","application_method":"Split N"}],
+    "chemical_treatment":[{"chemical_name":"Triazole fungicides (tebuconazole/propiconazole) or strobilurin mixes","dosage":"Typical triazole foliar ~0.1% (follow label)","spray_interval":"Apply at early detection per advisory","notes":"Rotate MoA; follow local advisories"}],
+    "organic_treatment":[{"solution":"Use resistant varieties; biofungicides as adjuncts","preparation":"Per label","application":"Preventive"}],
+    "preventive_measures":"Resistant cultivars, monitoring, timely fungicide based on thresholds.",
+    "references_used":"CIMMYT/ICAR wheat rust resources"
+  },
+
+  {
+    "crop":"wheat",
+    "disease":"brown rust",
+    "symptoms":"Reddish-brown pustules on leaves; reduced photosynthetic area.",
+    "cause":"Puccinia triticina; warm humid weather favors disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess N late","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split doses"}],
+    "chemical_treatment":[{"chemical_name":"Triazoles or QoI systemic fungicides (label guidance)","dosage":"Label rates (~0.1% for triazoles common)","spray_interval":"Apply early at detection","notes":"Follow resistance management"}],
+    "organic_treatment":[{"solution":"Cultural measures and biological fungicides","preparation":"Per product label","application":"Adjunct to resistant varieties"}],
+    "preventive_measures":"Use resistant varieties, remove volunteers, adhere to advisory sprays.",
+    "references_used":"Wheat rust management literature"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"early blight",
+    "symptoms":"Circular dark lesions with concentric rings on leaves/fruits; defoliation.",
+    "cause":"Alternaria solani; residue-borne and humid conditions favor disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK with emphasis on K for fruit quality","npk_ratio":"Per local tomato recommendations","dosage":"Soil-test based","application_method":"Split + foliar K if needed"}],
+    "chemical_treatment":[{"chemical_name":"Mancozeb (protectant) + systemic triazole/strobilurin alternation","dosage":"Mancozeb ≈2 g/L or ~500 g/ha typical; systemics per label","spray_interval":"10–14 days","notes":"Alternate MoA"}],
+    "organic_treatment":[{"solution":"Trichoderma soil/seed support, neem sprays (5–10 ml/L)","preparation":"Per label","application":"Preventive/supportive"}],
+    "preventive_measures":"Crop rotation, debris removal, avoid overhead irrigation, certified transplants.",
+    "references_used":"TNAU/ICAR tomato advisories"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"bacterial spot",
+    "symptoms":"Water-soaked lesions that become scabby on leaves/fruit; defoliation possible.",
+    "cause":"Xanthomonas spp., spread by rain splash and contaminated tools.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + ensure Ca sufficiency","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split + foliar Ca if deficient"}],
+    "chemical_treatment":[{"chemical_name":"Copper formulations (copper oxychloride) alternated with mancozeb where appropriate","dosage":"Copper ~2–3 g/L (label dependent)","spray_interval":"7–10 days during wet periods","notes":"Watch for copper resistance"}],
+    "organic_treatment":[{"solution":"Bacteriophage/biocontrol options and hot-water seed treatment in nursery","preparation":"Per product label","application":"Nursery + early-field"}],
+    "preventive_measures":"Use disease-free transplants, sanitize tools, avoid overhead irrigation, rogue infected plants.",
+    "references_used":"ICAR/TNAU bacterial disease guidance"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"spider mites (two-spotted)",
+    "symptoms":"Stippling, bronzing, webbing under leaves, rapid decline in hot/dry weather.",
+    "cause":"Tetranychus urticae; favored by hot, dry conditions and pesticide disruption of predators.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excessive N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Miticides (abamectin, spiromesifen where registered)","dosage":"Label rates","spray_interval":"As per label and thresholds","notes":"Rotate chemistries; conserve predators"}],
+    "organic_treatment":[{"solution":"Predatory mites releases; neem, soap sprays (soap 1–2 g/L, neem 5–10 ml/L)","preparation":"Per label","application":"Frequent applications under infestation"}],
+    "preventive_measures":"Maintain humidity, avoid dust, conserve beneficials, monitor weekly.",
+    "references_used":"IPM and TNAU tomato pest guides"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"late blight",
+    "symptoms":"Rapidly expanding water-soaked lesions, white sporulation under humidity; fruit rot.",
+    "cause":"Phytophthora infestans (oomycete); cool wet conditions accelerate epidemics.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess late N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Protectant (mancozeb) + systemic oomycete fungicides (metalaxyl/mefenoxam or appropriate mixtures)","dosage":"Mancozeb ~2 g/L; systemics per label","spray_interval":"7–10 days or per local advisory","notes":"Late blight requires rapid, frequent sprays"}],
+    "organic_treatment":[{"solution":"Copper formulations (where allowed), sanitation, remove volunteer hosts","preparation":"Per label","application":"Frequent during risk periods"}],
+    "preventive_measures":"Certified seed, destroy volunteer solanaceae, protective sprays in high risk weather.",
+    "references_used":"TNAU/ICAR late blight advisories"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"leaf mold",
+    "symptoms":"Yellow-brown patches above with olive/gray growth below; common in humid/greenhouse conditions.",
+    "cause":"Fulvia fulva (Passalora fulva); high humidity and poor ventilation.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; focus on ventilation not fertilizer changes","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Copper fungicides and protectants; systemics if severe","dosage":"Label rates","spray_interval":"As needed during humid periods","notes":"Improve ventilation to reduce need"}],
+    "organic_treatment":[{"solution":"Improve greenhouse ventilation, copper organic sprays where allowed","preparation":"Per label","application":"Preventive in protected cultivation"}],
+    "preventive_measures":"Lower humidity, avoid overhead irrigation, improve air flow, protective sprays.",
+    "references_used":"Greenhouse disease management guides"
+  },
+
+  {
+    "crop":"tomato",
+    "disease":"septoria leaf spot",
+    "symptoms":"Small circular spots with dark borders on lower leaves leading to defoliation.",
+    "cause":"Septoria lycopersici; thrives with prolonged leaf wetness.",
+    "recommended_fertilizers":[{"name":"Balanced NPK and controlled N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split application"}],
+    "chemical_treatment":[{"chemical_name":"Mancozeb or copper fungicides; systemics in rotation","dosage":"Mancozeb ~2 g/L or label rates","spray_interval":"10–14 days","notes":"Sanitation + fungicides together"}],
+    "organic_treatment":[{"solution":"Copper sprays, Trichoderma-based biofungicides, remove infected lower leaves","preparation":"Per label","application":"Combine cultural + biological"}],
+    "preventive_measures":"Remove infected debris, avoid overhead irrigation, crop rotation.",
+    "references_used":"TNAU/ICAR tomato guidance"
+  },
+
+  {
+    "crop":"pepper bell",
+    "disease":"bacterial spot",
+    "symptoms":"Scabby lesions on leaves/fruit, potential defoliation and unmarketable fruit.",
+    "cause":"Xanthomonas spp.; spread by rain, wind, tools, seedlings.",
+    "recommended_fertilizers":[{"name":"Balanced NPK + Ca maintenance","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Split + foliar Ca if needed"}],
+    "chemical_treatment":[{"chemical_name":"Copper formulations alternated with protectants where advised","dosage":"Copper ~2–3 g/L (label)","spray_interval":"7–10 days in wet spells","notes":"Monitor copper resistance"}],
+    "organic_treatment":[{"solution":"Phage/biocontrols where available, hot-water seed treatment for nursery","preparation":"Per label","application":"Nursery & early-field sanitation"}],
+    "preventive_measures":"Use clean transplants, sanitize tools, avoid overhead irrigation, rogue infected plants.",
+    "references_used":"ICAR/TNAU bacterial disease advisories"
+  },
+
+  {
+    "crop":"peanut",
+    "disease":"nutrition deficiency",
+    "symptoms":"Yellowing, interveinal chlorosis, small leaves, poor pod fill depending on nutrient lacking.",
+    "cause":"Deficiencies of N, P, K, Zn, B, Mg; soil imbalance or pH issues.",
+    "recommended_fertilizers":[{"name":"Soil-test-based NPK + Zn/B if deficient","npk_ratio":"Example: N 20–30 kg/ha (peanut fixes N), P 40–60 kg/ha, K 40–80 kg/ha; adjust by soil test","dosage":"Follow soil test recommendations","application_method":"Basal P & K; foliar micronutrients for quick correction (Zn 0.5–1 g/L)"}],
+    "chemical_treatment":[{"chemical_name":"Not applicable; correct via nutrient amendments & soil amendments","dosage":"N/A","spray_interval":"N/A","notes":"Tissue/soil test before intervention"}],
+    "organic_treatment":[{"solution":"Apply FYM/compost, ZnSO4 soil application if deficient (25–50 kg/ha in severe cases), foliar Zn for quick correction","preparation":"Per extension guidance","application":"Follow soil test"}],
+    "preventive_measures":"Regular soil testing, balanced fertilization, inoculants for N fixation where relevant.",
+    "references_used":"ICAR/peanut nutrient guides"
+  },
+
+  {
+    "crop":"peanut",
+    "disease":"late leaf spot",
+    "symptoms":"Dark circular to irregular spots on leaves causing premature defoliation.",
+    "cause":"Phaeoisariopsis personata (Cercosporidium); warm humid weather favors disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; K for stress tolerance","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Carbendazim + Mancozeb or strobilurin+triazole combinations","dosage":"Typical protectant ~2 g/L mancozeb; systemics per label","spray_interval":"10–14 days from pegging or per advisory","notes":"Rotate MoA"}],
+    "organic_treatment":[{"solution":"Trichoderma seed/soil treatment; neem botanicals for support","preparation":"Per label","application":"Preventive/supportive"}],
+    "preventive_measures":"Timely sprays at pegging, crop rotation, tolerant varieties, residue management.",
+    "references_used":"ICAR/peanut disease trials"
+  },
+
+  {
+    "crop":"peanut",
+    "disease":"early rust",
+    "symptoms":"Small orange/brown pustules on leaves; early defoliation possible.",
+    "cause":"Puccinia arachidis; humid conditions favor disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excess N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Triazole/strobilurin or protectants (mancozeb)","dosage":"Label rates (~2 g/L for protectants typical)","spray_interval":"10–14 days or as per advisory","notes":"Rotate groups"}],
+    "organic_treatment":[{"solution":"Biocontrols, neem sprays, remove heavily infected plants","preparation":"Per label","application":"Supportive"}],
+    "preventive_measures":"Tolerant varieties, scheduled sprays, residue management.",
+    "references_used":"Peanut rust management literature"
+  },
+
+  {
+    "crop":"peanut",
+    "disease":"early leaf spot",
+    "symptoms":"Small brown spots on leaves at early stages; can coalesce reducing canopy.",
+    "cause":"Cercospora arachidicola; humid conditions favor disease.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; adequate K","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Carbendazim + Mancozeb or trifloxystrobin+tebuconazole combos","dosage":"Per label","spray_interval":"10–14 days starting early in cycle","notes":"Follow IPM schedules"}],
+    "organic_treatment":[{"solution":"Trichoderma seed treatments, neem sprays","preparation":"Per label","application":"Preventive/supportive"}],
+    "preventive_measures":"Early scheduling of fungicides, rotation, tolerant varieties.",
+    "references_used":"Extension & trial literature"
+  },
+
+  {
+    "crop":"peanut",
+    "disease":"rust",
+    "symptoms":"Orange-brown pustules leading to defoliation and yield loss.",
+    "cause":"Puccinia spp.; warm humid environment.",
+    "recommended_fertilizers":[{"name":"Balanced NPK; avoid excessive N","npk_ratio":"Per soil test","dosage":"As recommended","application_method":"Standard"}],
+    "chemical_treatment":[{"chemical_name":"Protectant + systemic fungicides (mancozeb, strobilurin/triazole mixes)","dosage":"Label rates","spray_interval":"10–14 days","notes":"Rotate chemistries"}],
+    "organic_treatment":[{"solution":"Biocontrols, cultural practices, remove heavily infected plants","preparation":"Per label","application":"Integrate with cultural control"}],
+    "preventive_measures":"Tolerant varieties, scheduled sprays, residue management.",
+    "references_used":"ICAR/peanut disease guides"
+  }
+]
