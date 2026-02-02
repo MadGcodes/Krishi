@@ -1,0 +1,3 @@
+https://huggingface.co/winkoo    ---- Plant Disease Model deployed link 
+
+https://huggingface.co/spaces/ravina0912/fertilizer-recomm     ------ Fertilzer Model deployed link 
