@@ -1,0 +1,9 @@
+flask
+ultralytics
+opencv-python-headless
+numpy
+pillow
+gunicorn
+Flask-Cors
+torch>=2.0.0
+fastapi
